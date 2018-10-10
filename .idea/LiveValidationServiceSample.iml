@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="ModuleRunConfigurationManager">
+    <shared />
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="RVM: ruby-2.3.1" jdkType="RUBY_SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="azure_live_validation (v[path]) [path][gem]">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../tooling/azure_live_validation/lib" />
+          <root url="file://$MODULE_DIR$/../tooling/azure_live_validation/.idea" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../tooling/azure_live_validation/lib" />
+          <root url="file://$MODULE_DIR$/../tooling/azure_live_validation/.idea" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="swagger_client (v1.0.0) [path][gem]">
+        <CLASSES>
+          <root url="file://$USER_HOME$/Downloads/ruby-client/lib" />
+          <root url="file://$USER_HOME$/Downloads/ruby-client/.swagger-codegen" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$USER_HOME$/Downloads/ruby-client/lib" />
+          <root url="file://$USER_HOME$/Downloads/ruby-client/.swagger-codegen" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.16.2, RVM: ruby-2.3.1) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="concurrent-ruby (v1.0.5, RVM: ruby-2.3.1) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="domain_name (v0.5.20180417, RVM: ruby-2.3.1) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ethon (v0.11.0, RVM: ruby-2.3.1) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="faraday (v0.15.3, RVM: ruby-2.3.1) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="faraday-cookie_jar (v0.0.6, RVM: ruby-2.3.1) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ffi (v1.9.25, RVM: ruby-2.3.1) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="http-cookie (v1.0.3, RVM: ruby-2.3.1) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="json (v2.1.0, RVM: ruby-2.3.1) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ms_rest (v0.7.3, RVM: ruby-2.3.1) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ms_rest_azure (v0.11.0, RVM: ruby-2.3.1) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="multipart-post (v2.0.0, RVM: ruby-2.3.1) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="timeliness (v0.3.8, RVM: ruby-2.3.1) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="typhoeus (v1.3.0, RVM: ruby-2.3.1) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="unf (v0.1.4, RVM: ruby-2.3.1) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="unf_ext (v0.0.7.5, RVM: ruby-2.3.1) [gem]" level="application" />
+  </component>
+</module>

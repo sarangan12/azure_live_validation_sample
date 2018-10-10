@@ -1,0 +1,56 @@
+PATH
+  remote: /Users/saranganrajamanickam/Downloads/ruby-client
+  specs:
+    swagger_client (1.0.0)
+      json (~> 2.1, >= 2.1.0)
+      typhoeus (~> 1.0, >= 1.0.1)
+
+PATH
+  remote: /Users/saranganrajamanickam/Projects/tooling/azure_live_validation
+  specs:
+    azure_live_validation (0.1.0)
+      ms_rest_azure (~> 0.11.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    concurrent-ruby (1.0.5)
+    domain_name (0.5.20180417)
+      unf (>= 0.0.5, < 1.0.0)
+    ethon (0.11.0)
+      ffi (>= 1.3.0)
+    faraday (0.15.3)
+      multipart-post (>= 1.2, < 3)
+    faraday-cookie_jar (0.0.6)
+      faraday (>= 0.7.4)
+      http-cookie (~> 1.0.0)
+    ffi (1.9.25)
+    http-cookie (1.0.3)
+      domain_name (~> 0.5)
+    json (2.1.0)
+    ms_rest (0.7.3)
+      concurrent-ruby (~> 1.0)
+      faraday (~> 0.9)
+      timeliness (~> 0.3)
+    ms_rest_azure (0.11.0)
+      concurrent-ruby (~> 1.0)
+      faraday (~> 0.9)
+      faraday-cookie_jar (~> 0.0.6)
+      ms_rest (~> 0.7.2)
+    multipart-post (2.0.0)
+    timeliness (0.3.8)
+    typhoeus (1.3.0)
+      ethon (>= 0.9.0)
+    unf (0.1.4)
+      unf_ext
+    unf_ext (0.0.7.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  azure_live_validation!
+  swagger_client!
+
+BUNDLED WITH
+   1.16.2

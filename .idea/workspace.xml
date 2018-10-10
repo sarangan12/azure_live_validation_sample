@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55f7a96c-3af8-413d-b0ca-c620eb72be67" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/LiveValidationServiceSample@LiveValidation_Autorest_Sample_1.rcov" NAME="LiveValidation_Autorest_Sample_1 Coverage Results" MODIFIED="1539154027435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/autorest_client" MODULE_NAME="LiveValidationServiceSample" />
+    <SUITE FILE_PATH="coverage/LiveValidationServiceSample@LiveValidation_Swagger_Sample_3.rcov" NAME="LiveValidation_Swagger_Sample_3 Coverage Results" MODIFIED="1539155315432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/swagger_client" MODULE_NAME="LiveValidationServiceSample" />
+    <SUITE FILE_PATH="coverage/LiveValidationServiceSample@LiveValidation_Autorest_Sample_3.rcov" NAME="LiveValidation_Autorest_Sample_3 Coverage Results" MODIFIED="1539155524710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/autorest_client" MODULE_NAME="LiveValidationServiceSample" />
+    <SUITE FILE_PATH="coverage/LiveValidationServiceSample@LiveValidation_Swagger_Sample_4.rcov" NAME="LiveValidation_Swagger_Sample_4 Coverage Results" MODIFIED="1539155662408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/swagger_client" MODULE_NAME="LiveValidationServiceSample" />
+    <SUITE FILE_PATH="coverage/LiveValidationServiceSample@LiveValidation_Autorest_Sample_2.rcov" NAME="LiveValidation_Autorest_Sample_2 Coverage Results" MODIFIED="1539154035289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/autorest_client" MODULE_NAME="LiveValidationServiceSample" />
+    <SUITE FILE_PATH="coverage/LiveValidationServiceSample@LiveValidation_Swagger_Sample_1.rcov" NAME="LiveValidation_Swagger_Sample_1 Coverage Results" MODIFIED="1539152567267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/swagger_client" MODULE_NAME="LiveValidationServiceSample" />
+    <SUITE FILE_PATH="coverage/LiveValidationServiceSample@LiveValidation_Swagger_Sample_2.rcov" NAME="LiveValidation_Swagger_Sample_2 Coverage Results" MODIFIED="1539153009133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/swagger_client" MODULE_NAME="LiveValidationServiceSample" />
+    <SUITE FILE_PATH="coverage/LiveValidationServiceSample@LiveValidation_Sample_1.rcov" NAME="LiveValidation_Sample_1 Coverage Results" MODIFIED="1539152055845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="LiveValidationServiceSample" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="LiveValidation_Autorest_Sample_4.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../azure_live_validation_sample/lib/autorest_client/LiveValidation_Autorest_Sample_4.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="517">
+              <caret line="134" column="88" selection-start-line="134" selection-start-column="88" selection-end-line="134" selection-end-column="88" />
+              <folding>
+                <element signature="e#412#689#0" />
+                <element signature="e#710#4103#0" />
+                <element signature="e#4196#4776#0" />
+                <element signature="e#4798#5470#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LiveValidation_Swagger_Sample_4.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../azure_live_validation_sample/lib/swagger_client/LiveValidation_Swagger_Sample_4.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+              <folding>
+                <element signature="e#421#698#0" />
+                <element signature="e#719#4112#0" />
+                <element signature="e#4205#4785#0" />
+                <element signature="e#4807#5479#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/LiveValidation_Sample_1.rb" />
+        <option value="$PROJECT_DIR$/lib/autorest_client/LiveValidation_Autorest_Sample_1.rb" />
+        <option value="$PROJECT_DIR$/lib/swagger_client/LiveValidation_Swagger_Sample_1.rb" />
+        <option value="$PROJECT_DIR$/lib/swagger_client/LiveValidation_Swagger_Sample_2.rb" />
+        <option value="$PROJECT_DIR$/lib/autorest_client/LiveValidation_Autorest_Sample_2.rb" />
+        <option value="$PROJECT_DIR$/lib/swagger_client/LiveValidation_Swagger_Sample_3.rb" />
+        <option value="$PROJECT_DIR$/lib/autorest_client/LiveValidation_Autorest_Sample_3.rb" />
+        <option value="$PROJECT_DIR$/lib/autorest_client/LiveValidation_Autorest_Sample_4.rb" />
+        <option value="$PROJECT_DIR$/lib/swagger_client/LiveValidation_Swagger_Sample_4.rb" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="956" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LiveValidationServiceSample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="azure_live_validation_sample" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/swagger_client" />
+      <recent name="$PROJECT_DIR$/lib/autorest_client" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Ruby.LiveValidation_Swagger_Sample_4">
+    <configuration name="LiveValidation_Autorest_Sample_1" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="LiveValidationServiceSample" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/lib/autorest_client" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/lib/autorest_client/LiveValidation_Autorest_Sample_1.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+    </configuration>
+    <configuration name="LiveValidation_Autorest_Sample_2" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="LiveValidationServiceSample" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/lib/autorest_client" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/lib/autorest_client/LiveValidation_Autorest_Sample_2.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+    </configuration>
+    <configuration name="LiveValidation_Autorest_Sample_3" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="LiveValidationServiceSample" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/lib/autorest_client" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/lib/autorest_client/LiveValidation_Autorest_Sample_3.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+    </configuration>
+    <configuration name="LiveValidation_Swagger_Sample_3" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="LiveValidationServiceSample" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/lib/swagger_client" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/lib/swagger_client/LiveValidation_Swagger_Sample_3.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+    </configuration>
+    <configuration name="LiveValidation_Swagger_Sample_4" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="LiveValidationServiceSample" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/lib/swagger_client" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/lib/swagger_client/LiveValidation_Swagger_Sample_4.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+    </configuration>
+    <list>
+      <item itemvalue="Ruby.LiveValidation_Autorest_Sample_1" />
+      <item itemvalue="Ruby.LiveValidation_Autorest_Sample_2" />
+      <item itemvalue="Ruby.LiveValidation_Autorest_Sample_3" />
+      <item itemvalue="Ruby.LiveValidation_Swagger_Sample_3" />
+      <item itemvalue="Ruby.LiveValidation_Swagger_Sample_4" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Ruby.LiveValidation_Swagger_Sample_4" />
+        <item itemvalue="Ruby.LiveValidation_Autorest_Sample_3" />
+        <item itemvalue="Ruby.LiveValidation_Swagger_Sample_3" />
+        <item itemvalue="Ruby.LiveValidation_Autorest_Sample_2" />
+        <item itemvalue="Ruby.LiveValidation_Autorest_Sample_1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55f7a96c-3af8-413d-b0ca-c620eb72be67" name="Default" comment="" />
+      <created>1539114494674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539114494674</updated>
+      <workItem from="1539114496086" duration="7096000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7096000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="956" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32968238" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978093" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="ruby-line">
+          <url>file://$PROJECT_DIR$/../azure_live_validation_sample/lib/swagger_client/LiveValidation_Swagger_Sample_3.rb</url>
+          <line>136</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="10" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Downloads/ruby-client/lib/swagger_client.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="33" column="7" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/ruby-client/lib/swagger_client/configuration.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="147" selection-start-line="147" selection-end-line="147" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/ruby-client/lib/swagger_client/api_client.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#770#1018#0" />
+            <element signature="e#452#13416#1" />
+            <element signature="e#1310#2310#0" />
+            <element signature="e#452#13416#1" />
+            <element signature="e#2751#4178#0" />
+            <element signature="e#452#13416#1" />
+            <element signature="e#4450#4554#0" />
+            <element signature="e#452#13416#1" />
+            <element signature="e#4765#5735#0" />
+            <element signature="e#452#13416#1" />
+            <element signature="e#5928#6975#0" />
+            <element signature="e#452#13416#1" />
+            <element signature="e#7409#8663#0" />
+            <element signature="e#452#13416#1" />
+            <element signature="e#8864#8939#0" />
+            <element signature="e#8945#9112#0" />
+            <element signature="e#452#13416#1" />
+            <element signature="e#9368#10007#0" />
+            <element signature="e#452#13416#1" />
+            <element signature="e#10253#10769#0" />
+            <element signature="e#452#13416#1" />
+            <element signature="e#10896#11013#0" />
+            <element signature="e#452#13416#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../azure-sdk-for-ruby/Rakefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-79">
+          <caret line="211" column="8" selection-start-line="211" selection-start-column="8" selection-end-line="211" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../azure_live_validation_sample/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tooling/azure_live_validation/lib/generated/azure_live_validation/live_validation_service_client.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiveValidation_Sample_1.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="13" selection-end-line="16" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../azure_live_validation_sample/lib/swagger_client/LiveValidation_Swagger_Sample_2.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tooling/azure_live_validation/lib/generated/azure_live_validation/tools.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="25" column="48" selection-start-line="25" selection-start-column="48" selection-end-line="25" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#12925#0" />
+            <element signature="e#164#12924#1" />
+            <element signature="e#259#12920#2" />
+            <element signature="e#422#475#0" />
+            <element signature="e#1565#1765#0" />
+            <element signature="e#2136#4063#0" />
+            <element signature="e#2816#3050#0" />
+            <element signature="e#3155#4032#0" />
+            <element signature="e#3304#3483#0" />
+            <element signature="e#3524#4006#0" />
+            <element signature="e#3556#3994#1" />
+            <element signature="e#4414#4661#0" />
+            <element signature="e#5027#5237#0" />
+            <element signature="e#5597#7534#0" />
+            <element signature="e#6287#6521#0" />
+            <element signature="e#6626#7503#0" />
+            <element signature="e#6775#6954#0" />
+            <element signature="e#6995#7477#0" />
+            <element signature="e#7027#7465#1" />
+            <element signature="e#7822#8009#0" />
+            <element signature="e#8303#8453#0" />
+            <element signature="e#8741#10225#0" />
+            <element signature="e#9003#9204#0" />
+            <element signature="e#9308#10194#0" />
+            <element signature="e#9457#9636#0" />
+            <element signature="e#9677#10168#0" />
+            <element signature="e#9709#10156#1" />
+            <element signature="e#10502#10699#0" />
+            <element signature="e#10982#11142#0" />
+            <element signature="e#422#12913#1" />
+            <element signature="e#11419#12913#0" />
+            <element signature="e#11691#11892#0" />
+            <element signature="e#11996#12882#0" />
+            <element signature="e#12145#12324#0" />
+            <element signature="e#12365#12856#0" />
+            <element signature="e#12397#12844#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tooling/azure_live_validation/lib/generated/azure_live_validation/models/live_validation_parameter.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/did_you_mean-1.0.0/lib/did_you_mean/core_ext/name_error.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/concurrent-ruby-1.0.5/lib/concurrent/utility/at_exit.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tooling/azure_live_validation/lib/generated/azure_live_validation/models/live_request.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tooling/azure_live_validation/lib/generated/azure_live_validation/models/live_response.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../azure_live_validation_sample/lib/autorest_client/LiveValidation_Autorest_Sample_2.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/ruby-client/lib/swagger_client/api/live_validation_api.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="131" column="64" selection-start-line="131" selection-start-column="39" selection-end-line="131" selection-end-column="64" />
+          <folding>
+            <element signature="e#328#413#0" />
+            <element signature="e#1147#2910#0" />
+            <element signature="e#3076#3250#0" />
+            <element signature="e#3519#4891#0" />
+            <element signature="e#5637#7375#0" />
+            <element signature="e#297#9348#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/ruby-client/lib/swagger_client/models/live_validation_parameter.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/ruby-client/lib/swagger_client/models/live_request.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-199" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../azure_live_validation_sample/lib/autorest_client/LiveValidation_Autorest_Sample_1.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../azure_live_validation_sample/lib/swagger_client/LiveValidation_Swagger_Sample_1.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="73" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../azure_live_validation_sample/lib/swagger_client/LiveValidation_Swagger_Sample_3.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-143">
+          <caret line="131" column="40" lean-forward="true" selection-start-line="131" selection-start-column="40" selection-end-line="131" selection-end-column="40" />
+          <folding>
+            <element signature="e#412#689#0" />
+            <element signature="e#710#4103#0" />
+            <element signature="e#4196#4776#0" />
+            <element signature="e#4798#5470#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../azure_live_validation_sample/lib/autorest_client/LiveValidation_Autorest_Sample_3.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="134" column="83" selection-start-line="134" selection-start-column="59" selection-end-line="134" selection-end-column="83" />
+          <folding>
+            <element signature="e#361#646#0" />
+            <element signature="e#671#4064#0" />
+            <element signature="e#4196#4784#0" />
+            <element signature="e#4798#5470#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../azure_live_validation_sample/lib/autorest_client/LiveValidation_Autorest_Sample_4.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="134" column="88" selection-start-line="134" selection-start-column="88" selection-end-line="134" selection-end-column="88" />
+          <folding>
+            <element signature="e#412#689#0" />
+            <element signature="e#710#4103#0" />
+            <element signature="e#4196#4776#0" />
+            <element signature="e#4798#5470#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../azure_live_validation_sample/lib/swagger_client/LiveValidation_Swagger_Sample_4.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding>
+            <element signature="e#421#698#0" />
+            <element signature="e#719#4112#0" />
+            <element signature="e#4205#4785#0" />
+            <element signature="e#4807#5479#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
